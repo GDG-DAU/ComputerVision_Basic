@@ -1,17 +1,19 @@
-# StudyTemplate
+# Computer Vision
 
-# 📕Algorithm_Study
-동아대학교 GDSC **Algorithm** 스터디입니다. 알고리즘을 학습합니다.
+# 📕Computer Vision
+동아대학교 GDSC **Computer Vision Basic** 스터디입니다. Classification Model을 학습합니다!
 
 # 📝스터디 목표 
-단기 목표: <br>
-장기 목표 또는 기대 효과: <br>
+단기 목표: Classification 모델의 구조에 대해서 알고, Training 원리 이해하기
+장기 목표 또는 기대 효과: Real-Time Classification Model 만들기!
 
 # 📝스터디 방식
-매주 화요일 20시 Google Meet에서 이론 학습 및 실습 방식으로 진행합니다. <br>
-진행자가 이론을 설명하고, 참가자는 그 이론을 바탕으로 알고리즘 문제 풀이를 진행합니다. <br>
+매주 수요일, 목요일 22:00 ~ 23:00 에 비대면으로 진행합니다. <br>
+이론에 대해서 우선 알아보고, 실습을 통해 이해하는 과정을 거쳐, 자신만의 방법으로 응용해보기!. <br>
 
 # 🧑🏻‍💻스터디 멤버 
-- 홍길동(스터디장)
-- 김철수
-- 이유리
+- 김지헌(스터디장)
+- 김아름
+- 손서빈
+- 이재웅
+- 최범규
